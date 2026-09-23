@@ -1,3 +1,5 @@
+**Archived.** This housing-message automation prototype is no longer maintained or operated. The code is preserved for historical reference; do not assume its integrations or sending behavior still work.
+
 # WG-Gesucht Bot
 
 What it does:
